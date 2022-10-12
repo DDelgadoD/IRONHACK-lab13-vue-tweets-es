@@ -2,6 +2,10 @@
 
 # LAB | Tweets de Vue.js
 
+## Mi Solución
+
+[Link](https://ddelgadod.github.io/IRONHACK-lab13-vue-tweets-es/)
+
 ## Introducción
 
 Pasar datos a través de *props* es un concepto importante de Vue.js que se entiende mejor con la práctica. Utilizaremos este ejercicio para ayudarte a consolidar tu comprensión de los props.
